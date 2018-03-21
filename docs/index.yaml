@@ -2,11 +2,11 @@ apiVersion: v1
 entries:
   notificationchart:
   - apiVersion: v1
-    created: 2018-03-21T00:58:46.506208002-07:00
+    created: 2018-03-21T01:04:51.178811708-07:00
     description: A Helm chart for Kubernetes
-    digest: f6f4c4da2fa95d6157cd7283230f34bc7fa8a2970d0ab9872ec0cc03fe6cfbc4
+    digest: 7636f947dbaf0c0b04b0314e17b822b8c78c48f4a1db3c7ec2b9f7d28b4c5ee5
     name: notificationchart
     urls:
     - https://davisdevlab.github.io/mycharts/notificationchart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-03-21T00:58:46.504082097-07:00
+generated: 2018-03-21T01:04:51.176113249-07:00
