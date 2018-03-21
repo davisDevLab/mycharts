@@ -1,12 +1,48 @@
 apiVersion: v1
 entries:
+  loyaltylevelchart:
+  - apiVersion: v1
+    created: 2018-03-21T01:47:20.236224854-07:00
+    description: A Helm chart for Kubernetes
+    digest: 1aeff70adf435d5eca10b25398a480d553eb893542013baeaf0e4e69d7adc215
+    name: loyaltylevelchart
+    urls:
+    - https://davisdevlab.github.io/mycharts/loyaltylevelchart-0.1.0.tgz
+    version: 0.1.0
   notificationchart:
   - apiVersion: v1
-    created: 2018-03-21T01:31:55.338627514-07:00
+    created: 2018-03-21T01:47:20.236522908-07:00
     description: A Helm chart for Kubernetes
     digest: 1c465ee174bc6899750c850ddc2fec980ed7c6a493dd942a87f61367e83f0ecc
     name: notificationchart
     urls:
     - https://davisdevlab.github.io/mycharts/notificationchart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-03-21T01:31:55.336770406-07:00
+  portfoliochart:
+  - apiVersion: v1
+    created: 2018-03-21T01:47:20.237215831-07:00
+    description: A Helm chart for Kubernetes
+    digest: 1c623c2a0f4b5bac42c54dd0dbacd5783181c966180db6103f16e31a0e9f5a5f
+    name: portfoliochart
+    urls:
+    - https://davisdevlab.github.io/mycharts/portfoliochart-0.1.0.tgz
+    version: 0.1.0
+  stockquotechart:
+  - apiVersion: v1
+    created: 2018-03-21T01:47:20.237569248-07:00
+    description: A Helm chart for Kubernetes
+    digest: 863e41045ba185c19857e75054acdcd07094a421355912f78137fb98de080ee5
+    name: stockquotechart
+    urls:
+    - https://davisdevlab.github.io/mycharts/stockquotechart-0.1.0.tgz
+    version: 0.1.0
+  traderchart:
+  - apiVersion: v1
+    created: 2018-03-21T01:47:20.238296337-07:00
+    description: A Helm chart for Kubernetes
+    digest: 2688fdd14eb4dc97ac53312b3767243e6af9ac7945459d217d7b6826bb065465
+    name: traderchart
+    urls:
+    - https://davisdevlab.github.io/mycharts/traderchart-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-03-21T01:47:20.2356885-07:00
